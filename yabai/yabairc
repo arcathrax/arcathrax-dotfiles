@@ -33,4 +33,4 @@ yabai -m rule --add app "^GRID™ Legends$" manage=off
 yabai -m rule --add app "^Resident Evil 2$" manage=off
 
 # JankyBorders setup
-borders active_color=0xffb39df3 inactive_color=0x00000000 width=5.5
+borders active_color=0xffb39df3 inactive_color=0x00000000 width=4.0
