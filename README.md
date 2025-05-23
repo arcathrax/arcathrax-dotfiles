@@ -7,6 +7,7 @@ The software configuration, that I'm using is:
 - [yabai](https://github.com/koekeishiya/yabai)
 - [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 - [skhd](https://github.com/koekeishiya/skhd)
+- [JankyBorders](https://github.com/FelixKratz/JankyBorders)
 
 The SketchyBar setup is just a fork of [FelixKratz's dotfiles](https://github.com/FelixKratz/dotfiles). The yabai and skhd setup is based on [this](https://youtu.be/k94qImbFKWE?si=vV2tSKLrwlm36w3W) tutorial. Also I've disabled SIP (System Integrity Protection) for instant virtual desktop change.
 
