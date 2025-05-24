@@ -16,7 +16,7 @@ brew install FelixKratz/formulae/sketchybar
 
 echo "Cloning config..."
 git clone https://github.com/arcathrax/arcathrax-dotfiles.git /tmp/dotfiles
-mv $HOME/.config $HOME/.config_backup
+cp $HOME/.config $HOME/.config_backup
 mv /tmp/dotfiles/sketchybar $HOME/.config/sketchybar
 mv /tmp/dotfiles/skhd $HOME/.config/skhd
 mv /tmp/dotfiles/yabai $HOME/.config/yabai
