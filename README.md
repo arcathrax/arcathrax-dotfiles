@@ -8,9 +8,9 @@ The software configuration, that I'm using is:
 - [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 - [skhd](https://github.com/koekeishiya/skhd)
 - [JankyBorders](https://github.com/FelixKratz/JankyBorders)
+- [yazi](https://github.com/sxyazi/yazi)
 
 The SketchyBar setup is just a fork of [FelixKratz's dotfiles](https://github.com/FelixKratz/dotfiles). The yabai and skhd setup is based on [this](https://youtu.be/k94qImbFKWE?si=vV2tSKLrwlm36w3W) tutorial. Also I've disabled SIP (System Integrity Protection) for instant virtual desktop change.
 
 ## installation
-You should be able, to just drag and drop this repository into your `.config`. Please note, that you have to install [yabai](https://github.com/koekeishiya/yabai), [SketchyBar](https://github.com/FelixKratz/SketchyBar), [JankyBorders](https://github.com/FelixKratz/JankyBorders) and [skhd](https://github.com/koekeishiya/skhd) to make it work.
-
+Download this repository and run the `setup.sh`-file.
